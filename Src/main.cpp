@@ -1,4 +1,4 @@
-#include <SDL2/SDL.h>
+#include <SDl2/SDL.h>
 #include <array>
 #include <iostream>
 
